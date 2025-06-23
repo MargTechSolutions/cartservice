@@ -4,7 +4,7 @@
 # DOCKER_SECRET_KEY=MySecretKey
 # echo ".env" >> .gitignore   #add it to gitignore
 
-
+#bash script name
 #!/bin/bash
 
 # -----------------------------------------------------------------------------
